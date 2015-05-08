@@ -8,7 +8,7 @@ The paper may be found at http://arxiv.org/abs/1309.2963
 
 This project is licensed under the MIT License (MIT):
 
-Copyright (c) 2013 P. Shakarian, S. Eyre, D. Paulo.
+Copyright (c) 2013 P. Shakarian, S. Eyre.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,7 @@ THE SOFTWARE.
 
 Authors:
 P. Shakarian
-E-mail: paulo@shakarian.net
+E-mail: shak@asu.edu
 
 S. Eyre
 E-mail: sean.k.eyre@gmail.com
